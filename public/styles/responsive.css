@@ -1,4 +1,11 @@
 @media screen and (min-width: 600px) {
+  body {
+    min-height: 100vh;
+    
+    padding: 30px 40px 20px;
+
+  }
+
   header,
   main,
   footer {
