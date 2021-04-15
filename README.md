@@ -7,13 +7,13 @@ This is a challenge of [FrontEnd Mentor](https://www.frontendmentor.io/challenge
 
 ## Result
 
-> ### See the result live [here](https://sign-up-page-lusk1nha.vercel.app/)
+> ### See the result live [here](https://landing-page-ping-coming-soon-git-master-lusk1nha.vercel.app/)
 
 Desktop Version -
 
-[![vercel.com](./public/assets/github-image-desktop.png)](https://sign-up-page-lusk1nha.vercel.app/)
+[![vercel.com](./public/assets/github-image-desktop.png)](https://landing-page-ping-coming-soon-git-master-lusk1nha.vercel.app/)
 
 Mobile Version -
 
-[![vercel.com](./public/assets/github-image-mobile.png)](https://sign-up-page-lusk1nha.vercel.app/)
+[![vercel.com](./public/assets/github-image-mobile.png)](https://landing-page-ping-coming-soon-git-master-lusk1nha.vercel.app/)
 
